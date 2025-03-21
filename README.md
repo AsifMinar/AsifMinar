@@ -9,7 +9,7 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=29E92D&center=true&vCenter=true&width=1200&height=100&lines=I+am+Mostafizur+Rahman;Programming+Enthusiast;Exploring+AI+and+ML+with+Python;Competitive+Programmer;Always+Learning+New+Technologies" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=29E92D&center=true&vCenter=true&width=1200&height=100&lines=I+am+Mostafizur+Rahman;Programming+Enthusiast;Competitive+Programmer;Exploring+Artificial+Intelligence;Machine+Learning;Neural+Network;Deep+Learning;Generative+AI;Always+Learning+New+Technologies" alt="Typing SVG" /></a>
 
 <br> 
 <br>
