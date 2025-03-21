@@ -129,8 +129,6 @@
   &emsp;
     <a href="#"><img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-10?style=plastic&logo=github-copilot&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-E5E4E2?style=plastic&logo=stack-overflow&logoColor=orange"></a>
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
