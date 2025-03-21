@@ -37,14 +37,33 @@
             border: 1px solid rgba(255, 255, 255, 0.18); 
             margin: auto; 
             width: fit-content;">
+  <!-- GitHub Streak Stats -->
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifminar&theme=dark&bg_color=00000000&border_radius=10" alt="GitHub Stats" /><br/><br/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=asifminar&theme=github_dark&bg_color=00000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=asifminar&theme=github_light&bg_color=00000000">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifminar&theme=github_dark&bg_color=00000000" alt="GitHub Streak Stats">
+    </picture>
+    <br/><br/>
   </p>
+  
+  <!-- Top Languages -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asifminar&show_icons=true&locale=en&layout=compact&bg_color=00000000&text_color=ffffff&title_color=ffffff" alt="asifminar" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=asifminar&show_icons=true&locale=en&layout=compact&theme=github_dark&bg_color=00000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=asifminar&show_icons=true&locale=en&layout=compact&theme=github_light&bg_color=00000000">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asifminar&show_icons=true&locale=en&layout=compact&theme=github_dark&bg_color=00000000" alt="Top Languages">
+    </picture>
   </p>
+  
+  <!-- Overall GitHub Stats -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=asifminar&show_icons=true&locale=en&bg_color=00000000&text_color=ffffff&title_color=ffffff" alt="asifminar" /><br/><br/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=asifminar&show_icons=true&locale=en&theme=github_dark&bg_color=00000000">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=asifminar&show_icons=true&locale=en&theme=github_light&bg_color=00000000">
+      <img src="https://github-readme-stats.vercel.app/api?username=asifminar&show_icons=true&locale=en&theme=github_dark&bg_color=00000000" alt="GitHub Stats">
+    </picture>
+    <br/><br/>
   </p>
 </div>
 
