@@ -14,7 +14,7 @@
 <br> 
 <br>
 
-<h2><picture> <img src = "https://github.com/asifminar/asifminar/blob/main/images/me.gif?raw=true" width = 50px></picture>Intro</h2>
+<h2><picture> <img src = "https://github.com/asifminar/asifminar/blob/main/images/me.gif?raw=true" width = 50px> </picture>Intro</h2>
 <picture> <img align="right" src="https://github.com/asifminar/asifminar/blob/main/images/computer.gif?raw=true" width = 250px></picture>
 <br><br>
 
