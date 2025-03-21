@@ -90,7 +90,7 @@
   </a>
 </p>
 
-<br/><br/>
+<br/>
 
 <h2>🖥️ Frontend Development 🖥️</h2>
 
