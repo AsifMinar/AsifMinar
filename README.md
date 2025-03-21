@@ -18,10 +18,9 @@
 <picture> <img align="right" src="https://github.com/asifminar/asifminar/blob/main/images/computer.gif?raw=true" width = 250px></picture>
 <br><br>
 
--  interested in programming<br>
--  A competitive programmer at `LeetCode`,  `HackerRank`, `CodeForces`.<br>
--  Currently using `Laravel`, `vue` and `MySQL` for web development<br>
--  Looking to collaborate on Web development using `React`/`Angular`<br>
+- Passionate programming enthusiast exploring new technologies, languages, and stacks  
+- Particularly interested in Python and its applications in Artificial Intelligence and Machine Learning  
+- Experienced in competitive programming on platforms like LeetCode, HackerRank, and CodeForces
 
 <br>
 <br>
