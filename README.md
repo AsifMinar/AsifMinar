@@ -27,7 +27,7 @@
 <br>
 <br>
 
-<h2>👀 My github Stats</h2> 
+<h2>Github stats</h2> 
 
 <div>
   <p align="center">
