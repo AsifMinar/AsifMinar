@@ -205,18 +205,50 @@
 </p>
 
 </> Software </> 
-<p>
- &emsp;
-    <a href="#"><img alt="Code Blocks" src="https://img.shields.io/badge/CodeBlocks-%23FF0000.svg?style=plastic&logo=codeblocks&logoColor=white"></a>
+<p align="left">
+  <!-- Modern Development Tools -->
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-5C5551.svg?style=plastic&logo=sublime-text&logoColor=white"></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp-FE7A16?&style=plastic&logo=xampp&logoColor=white"></a>
+  <a href="https://desktop.github.com/" target="_blank">
+    <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-24292E?style=for-the-badge&logo=github-desktop&logoColor=white">
+  </a>
   &emsp;
+  <a href="https://www.docker.com/" target="_blank">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.postman.com/" target="_blank">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  </a>
+  <br /><br />
+  <!-- AI-related Software -->
+  &emsp;
+  <a href="https://jupyter.org/" target="_blank">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://colab.research.google.com/" target="_blank">
+    <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.wandb.com/" target="_blank">
+    <img alt="Weights & Biases" src="https://img.shields.io/badge/Weights%20%26%20Biases-404040?style=for-the-badge&logo=weights-and-biases&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.anaconda.com/" target="_blank">
+    <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
+  </a>
 </p>
 
 </> Tools </>
