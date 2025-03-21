@@ -50,206 +50,213 @@
 <p align="left">
   &emsp;
   <a href="https://www.cprogramming.com/" target="_blank">
-    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://www.python.org/" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black"/>
   </a>
   &emsp;
   <a href="https://www.java.com/" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white"/>
   </a>
   &emsp;
   <!-- Others -->
   <a href="https://www.php.net/" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://www.rust-lang.org/" target="_blank">
-    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white"/>
   </a>
   &emsp;
   <!-- Assembly at the end -->
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
-    <img alt="Assembly" src="https://img.shields.io/badge/Assembly-5A5A5A?style=for-the-badge&logo=asm&logoColor=white"/>
+    <img alt="Assembly" src="https://img.shields.io/badge/Assembly-5A5A5A?style=plastic&logo=asm&logoColor=white"/>
   </a>
 </p>
 
 
 </> Frontend Development </>
+
 <p align="left">
   <!-- Python-based Frontend Frameworks -->
   &emsp;
   <a href="https://streamlit.io/" target="_blank">
-    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://dash.plotly.com/" target="_blank">
-    <img alt="Dash" src="https://img.shields.io/badge/Dash-2C3E50?style=for-the-badge&logo=plotly&logoColor=white"/>
+    <img alt="Dash" src="https://img.shields.io/badge/Dash-2C3E50?style=plastic&logo=plotly&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://gradio.app/" target="_blank">
-    <img alt="Gradio" src="https://img.shields.io/badge/Gradio-5C4EE5?style=for-the-badge&logo=gradio&logoColor=white"/>
+    <img alt="Gradio" src="https://img.shields.io/badge/Gradio-5C4EE5?style=plastic&logo=gradio&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://panel.holoviz.org/" target="_blank">
-    <img alt="Panel" src="https://img.shields.io/badge/Panel-HoloViz-blue?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="Panel" src="https://img.shields.io/badge/Panel-HoloViz-blue?style=plastic&logo=python&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://voila.readthedocs.io/" target="_blank">
-    <img alt="Voila" src="https://img.shields.io/badge/Voila-FF4081?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="Voila" src="https://img.shields.io/badge/Voila-FF4081?style=plastic&logo=python&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://www.pynecone.io/" target="_blank">
-    <img alt="Pynecone" src="https://img.shields.io/badge/Pynecone-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="Pynecone" src="https://img.shields.io/badge/Pynecone-FF6F00?style=plastic&logo=python&logoColor=white"/>
   </a>
   <br /><br />
   <!-- Other Frontend Frameworks -->
   &emsp;
   <a href="https://vuejs.org/" target="_blank">
-    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D"/>
   </a>
   &emsp;
   <a href="https://tailwindcss.com/" target="_blank">
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://getbootstrap.com" target="_blank">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://reactjs.org/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black"/>
   </a>
   &emsp;
   <a href="https://angular.io/" target="_blank">
-    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://svelte.dev/" target="_blank">
-    <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
+    <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=plastic&logo=svelte&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://nextjs.org/" target="_blank">
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white"/>
   </a>
 </p>
 
 
 </> Backend Development </>
+
 <p align="left">
   <!-- Python-based Backend Frameworks -->
   &emsp;
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white"/>
   </a>
   <br /><br />
   <!-- Other Backend Technologies -->
   &emsp;
   <a href="https://laravel.com/" target="_blank">
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://nodejs.org/en/" target="_blank">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://nextjs.org/" target="_blank">
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white"/>
   </a>
 </p>
 
+
 </> Databases </>
+
 <p align="left">
   &emsp;
   <a href="https://www.mysql.com/" target="_blank">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://www.postgresql.org/" target="_blank">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://www.mongodb.com/" target="_blank">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://redis.io/" target="_blank">
-    <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+    <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://neo4j.com/" target="_blank">
-    <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+    <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white"/>
   </a>
 </p>
 
-</> Software </> 
+
+</> Software </>
+
 <p align="left">
   <!-- Modern Development Tools -->
   &emsp;
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
+    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=plastic&logo=intellij-idea&logoColor=white">
   </a>
   &emsp;
   <a href="https://desktop.github.com/" target="_blank">
-    <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-24292E?style=for-the-badge&logo=github-desktop&logoColor=white">
+    <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-24292E?style=plastic&logo=github-desktop&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.docker.com/" target="_blank">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.postman.com/" target="_blank">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white">
   </a>
   <br /><br />
   <!-- AI-related Software -->
   &emsp;
   <a href="https://jupyter.org/" target="_blank">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white">
   </a>
   &emsp;
   <a href="https://colab.research.google.com/" target="_blank">
-    <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white">
+    <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=plastic&logo=google-colab&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.wandb.com/" target="_blank">
-    <img alt="Weights & Biases" src="https://img.shields.io/badge/Weights%20%26%20Biases-404040?style=for-the-badge&logo=weights-and-biases&logoColor=white">
+    <img alt="Weights & Biases" src="https://img.shields.io/badge/Weights%20%26%20Biases-404040?style=plastic&logo=weights-and-biases&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.anaconda.com/" target="_blank">
-    <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
+    <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=anaconda&logoColor=white">
   </a>
 </p>
+
 
 </> Tools </>
 <p>
