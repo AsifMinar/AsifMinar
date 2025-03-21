@@ -45,7 +45,7 @@
 <br/><br/>
 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
-💻 <h2> Programming languages 💻 </h2> 
+<h2> 💻 Programming languages 💻 </h2> 
 
 <p align="left">
   &emsp;
@@ -89,7 +89,7 @@
 </p>
 
 
-<h2> </> Frontend Development </> </h2>
+<h2>🖥️ Frontend Development 🖥️</h2>
 
 <p align="left">
   <!-- Python-based Frontend Frameworks -->
@@ -150,7 +150,7 @@
 </p>
 
 
-<h2> </> Backend Development </> </h2>
+<h2>⚙️ Backend Development ⚙️</h2>
 
 <p align="left">
   <!-- Python-based Backend Frameworks -->
@@ -183,7 +183,7 @@
 </p>
 
 
-<h2> </> Databases </> </h2>
+<h2>🖧 Databases 🖧</h2>
 
 <p align="left">
   &emsp;
@@ -209,7 +209,7 @@
 </p>
 
 
-<h2> </> Software </> </h2>
+<h2>💻 Software 💻</h2>
 
 <p align="left">
   <!-- Modern Development Tools -->
@@ -258,7 +258,7 @@
 </p>
 
 
-<h2> </> Tools </> </h2>
+<h2>🛠️ Tools 🛠️</h2>
 <p>
   &emsp;
   <a href="https://github.com/" target="_blank">
