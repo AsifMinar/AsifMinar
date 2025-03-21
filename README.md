@@ -183,10 +183,25 @@
 </> Databases </>
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
   &emsp;
-    <a href="https://www.mongodb.com/"><img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </a>
   &emsp;
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://redis.io/" target="_blank">
+    <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://neo4j.com/" target="_blank">
+    <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+  </a>
 </p>
 
 </> Software </> 
