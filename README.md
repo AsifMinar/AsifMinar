@@ -43,9 +43,9 @@
 </div>
 
 <br/><br/>
-## 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
-### 👉 Programming languages
+</> Programming languages </>
 
 <p align="left"> 
  &emsp;
@@ -68,7 +68,7 @@
 </p>
 
 
-### 👉 Frontend Development
+</> Frontend Development </>
 <p align="left"> 
   &emsp; 
   <a href="https://vuejs.org/" target="_blank"> 
@@ -85,7 +85,7 @@
 </p>
 
 
-### 👉 Backend Development
+</> Backend Development </>
 <p align="left"> 
   &emsp; 
   <a href="https://laravel.com/" target="_blank"> 
@@ -98,7 +98,7 @@
 
 </p>
 
-### 👉 Databases
+</> Databases </>
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
@@ -107,7 +107,7 @@
   &emsp;
 </p>
 
-### 👉 Software 
+</> Software </> 
 <p>
  &emsp;
     <a href="#"><img alt="Code Blocks" src="https://img.shields.io/badge/CodeBlocks-%23FF0000.svg?style=plastic&logo=codeblocks&logoColor=white"></a>
@@ -122,7 +122,7 @@
   &emsp;
 </p>
 
-### 👉 Tools
+</> Tools </>
 <p>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-E5E4E2?style=plastic&logo=stack-overflow&logoColor=orange"></a>
@@ -139,7 +139,7 @@
 <br>
 
 
-##  🏆Github Profile Trophies
+🏆 Github Profile Trophies 🏆
 <br>
 <p align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=asifminar&theme=juicyfresh&no-bg=true&row=2&column=4&margin-w=15&margin-h=20" />
@@ -148,7 +148,7 @@
 <br>
 
 
-## 🙋‍♀️ Let's Connect
+🔗 Let's Connect 🔗
 <p align="center">
   	<a href="https://asifminar.com/" target="blank" title="Website"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:mostafizur37rahman@gmail.com" target="blank" title="Gmail"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
