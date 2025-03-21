@@ -90,18 +90,61 @@
 
 
 </> Frontend Development </>
-<p align="left"> 
-  &emsp; 
-  <a href="https://vuejs.org/" target="_blank"> 
-   <img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-  </a>   
+<p align="left">
+  <!-- Python-based Frontend Frameworks -->
+  &emsp;
+  <a href="https://streamlit.io/" target="_blank">
+    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://dash.plotly.com/" target="_blank">
+    <img alt="Dash" src="https://img.shields.io/badge/Dash-2C3E50?style=for-the-badge&logo=plotly&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://gradio.app/" target="_blank">
+    <img alt="Gradio" src="https://img.shields.io/badge/Gradio-5C4EE5?style=for-the-badge&logo=gradio&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://panel.holoviz.org/" target="_blank">
+    <img alt="Panel" src="https://img.shields.io/badge/Panel-HoloViz-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://voila.readthedocs.io/" target="_blank">
+    <img alt="Voila" src="https://img.shields.io/badge/Voila-FF4081?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://www.pynecone.io/" target="_blank">
+    <img alt="Pynecone" src="https://img.shields.io/badge/Pynecone-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+  <br /><br />
+  <!-- Other Frontend Frameworks -->
+  &emsp;
+  <a href="https://vuejs.org/" target="_blank">
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  </a>
   &emsp;
   <a href="https://tailwindcss.com/" target="_blank">
-    <img alt="tailwind-css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://getbootstrap.com" target="_blank">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://reactjs.org/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  </a>
+  &emsp;
+  <a href="https://angular.io/" target="_blank">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://svelte.dev/" target="_blank">
+    <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://nextjs.org/" target="_blank">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   </a>
 </p>
 
