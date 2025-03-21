@@ -320,7 +320,7 @@
 <br>
 
 
-🏆 Github Profile Trophies 🏆
+<h2>🏆 Github Profile Trophies 🏆</h2>
 <br>
 <p align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=asifminar&theme=juicyfresh&no-bg=true&row=2&column=4&margin-w=15&margin-h=20" />
@@ -329,7 +329,7 @@
 <br>
 
 
-🔗 Let's Connect 🔗
+<h2>🔗 Let's Connect 🔗</h2>
 <p align="center">
   	<a href="https://asifminar.com/" target="blank" title="Website"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:mostafizur37rahman@gmail.com" target="blank" title="Gmail"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
