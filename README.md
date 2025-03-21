@@ -150,16 +150,34 @@
 
 
 </> Backend Development </>
-<p align="left"> 
-  &emsp; 
-  <a href="https://laravel.com/" target="_blank"> 
-   <img alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  </a>   
+<p align="left">
+  <!-- Python-based Backend Frameworks -->
+  &emsp;
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  </a>
+  <br /><br />
+  <!-- Other Backend Technologies -->
+  &emsp;
+  <a href="https://laravel.com/" target="_blank">
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  </a>
   &emsp;
   <a href="https://nodejs.org/en/" target="_blank">
-    <img alt="node js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  </a> 
-
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://nextjs.org/" target="_blank">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  </a>
 </p>
 
 </> Databases </>
