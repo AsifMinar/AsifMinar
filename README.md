@@ -29,15 +29,22 @@
 
 <h2>Github stats</h2> 
 
-<div style="background: rgba(255, 255, 255, 0.2); border-radius: 16px; padding: 20px; backdrop-filter: blur(10px);">
+<div style="background: rgba(255, 255, 255, 0.1); 
+            border-radius: 16px; 
+            padding: 20px; 
+            backdrop-filter: blur(10px); 
+            box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); 
+            border: 1px solid rgba(255, 255, 255, 0.18); 
+            margin: auto; 
+            width: fit-content;">
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifminar&bg_color=00000000" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifminar&theme=dark&bg_color=00000000&border_radius=10" alt="GitHub Stats" /><br/><br/>
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asifminar&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="asifminar" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asifminar&show_icons=true&locale=en&layout=compact&bg_color=00000000&text_color=ffffff&title_color=ffffff" alt="asifminar" />
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=asifminar&show_icons=true&locale=en&bg_color=00000000" alt="asifminar" /> <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=asifminar&show_icons=true&locale=en&bg_color=00000000&text_color=ffffff&title_color=ffffff" alt="asifminar" /><br/><br/>
   </p>
 </div>
 
