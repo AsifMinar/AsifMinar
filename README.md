@@ -29,18 +29,18 @@
 
 <h2>Github stats</h2> 
 
-<div>
+<div style="background: rgba(255, 255, 255, 0.2); border-radius: 16px; padding: 20px; backdrop-filter: blur(10px);">
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifminar" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifminar&bg_color=00000000" alt="GitHub Stats" /> <br/><br/>
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asifminar&show_icons=true&locale=en&layout=compact" alt="asifminar" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asifminar&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="asifminar" />
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=asifminar&show_icons=true&locale=en" alt="asifminar" /> <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=asifminar&show_icons=true&locale=en&bg_color=00000000" alt="asifminar" /> <br/><br/>
   </p>
-
 </div>
+
 
 <br/><br/>
 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
