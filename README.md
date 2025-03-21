@@ -9,7 +9,7 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=29E92D&center=true&vCenter=true&width=1200&height=100&lines=I+am+Mostafizur+Rahman;Programming+Enthusiast;Competitive+Programmer;Exploring+Artificial+Intelligence;Machine+Learning;Neural+Network;Deep+Learning;Generative+AI;Always+Learning+New+Technologies" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=29E92D&center=true&vCenter=true&width=1200&height=100&lines=I+am+Mostafizur+Rahman;Programming+Enthusiast;Competitive+Programmer;Building+projects+across+diverse+tech+stacks;Exploring+Artificial+Intelligence;Machine+Learning;Neural+Networks;Deep+Learning;Generative+AI;Always+Learning+New+Technologies" alt="Typing SVG" /></a>
 
 <br> 
 <br>
@@ -18,9 +18,11 @@
 <picture> <img align="right" src="https://github.com/asifminar/asifminar/blob/main/images/computer.gif?raw=true" width = 250px></picture>
 <br><br>
 
-- Passionate programming enthusiast exploring new technologies, languages, and stacks  
-- Particularly interested in Python and its applications in Artificial Intelligence and Machine Learning  
-- Experienced in competitive programming on platforms like LeetCode, HackerRank, and CodeForces
+- Passionate programming enthusiast exploring new technologies, languages, and stacks
+- Experienced in Competitive Programming on platforms like LeetCode, HackerRank, and CodeForces
+- Actively developing diverse applications using various languages and modern technologies
+- Particularly interested in Python for Artificial Intelligence and Machine Learning, focusing on Deep learning techniques and Generative models
+
 
 <br>
 <br>
