@@ -49,14 +49,6 @@
 
 <p align="left">
   &emsp;
-  <a href="https://www.php.net/" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  </a>
-  &emsp;
   <a href="https://www.cprogramming.com/" target="_blank">
     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   </a>
@@ -69,8 +61,17 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
   &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  </a>
+  &emsp;
   <a href="https://www.java.com/" target="_blank">
     <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  </a>
+  &emsp;
+  <!-- Others -->
+  <a href="https://www.php.net/" target="_blank">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://www.typescriptlang.org/" target="_blank">
@@ -79,6 +80,11 @@
   &emsp;
   <a href="https://www.rust-lang.org/" target="_blank">
     <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  </a>
+  &emsp;
+  <!-- Assembly at the end -->
+  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
+    <img alt="Assembly" src="https://img.shields.io/badge/Assembly-5A5A5A?style=for-the-badge&logo=asm&logoColor=white"/>
   </a>
 </p>
 
