@@ -261,33 +261,60 @@
 </> Tools </>
 <p>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github"></a>
+  <a href="https://github.com/" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github">
+  </a>
   &emsp;
-    <a href="#"><img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-10?style=plastic&logo=github-copilot&logoColor=white"></a>
+  <a href="https://github.com/features/copilot" target="_blank">
+    <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-10?style=plastic&logo=github-copilot&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-E5E4E2?style=plastic&logo=stack-overflow&logoColor=orange"></a>
+  <a href="https://stackoverflow.com/" target="_blank">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-E5E4E2?style=plastic&logo=stack-overflow&logoColor=orange">
+  </a>
   &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
+  </a>
   &emsp;
-    <a href="#"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+  <a href="https://www.geeksforgeeks.org/" target="_blank">
+    <img alt="GeeksforGeeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58?style=plastic&logo=geeksforgeeks&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"></a>
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"></a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"></a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white"></a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-2A5BFF?style=plastic&logo=huggingface&logoColor=white"></a>
+  <a href="https://huggingface.co/" target="_blank">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-2A5BFF?style=plastic&logo=huggingface&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white"></a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"></a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white">
+  </a>
   &emsp;
-    <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white"></a>
+  <a href="https://streamlit.io/" target="_blank">
+    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white">
+  </a>
   &emsp;
 </p>
+
 
 <br>
 <br>
