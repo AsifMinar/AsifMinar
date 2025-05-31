@@ -136,7 +136,7 @@
 
 <h2 align="center">🖥️ Frontend Development 🖥️</h2>
 
-<p align="left">
+<p align="center">
   <!-- Python-based Frontend Frameworks -->
   &emsp;
   <a href="https://streamlit.io/" target="_blank">
@@ -198,7 +198,7 @@
 
 <h2 align="center">⚙️ Backend Development ⚙️</h2>
 
-<p align="left">
+<p align="center">
   <!-- Python-based Backend Frameworks -->
   &emsp;
   <a href="https://www.djangoproject.com/" target="_blank">
@@ -232,7 +232,7 @@
 
 <h2 align="center">🖧 Databases 🖧</h2>
 
-<p align="left">
+<p align="center">
   &emsp;
   <a href="https://www.mysql.com/" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
@@ -259,7 +259,7 @@
 
 <h2 align="center">💻 Software 💻</h2>
 
-<p align="left">
+<p align="center">
   <!-- Modern Development Tools -->
   &emsp;
   <a href="https://code.visualstudio.com/" target="_blank">
@@ -308,7 +308,8 @@
 <br/>
 
 <h2 align="center">🛠️ Tools 🛠️</h2>
-<p>
+
+<p align="center">
   &emsp;
   <a href="https://github.com/" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github">
