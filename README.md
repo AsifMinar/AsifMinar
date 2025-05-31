@@ -85,7 +85,7 @@
 
 <br/><br/>
 
-<h2> 💻 Programming languages 💻 </h2> 
+<h2 align="center">💻 Programming languages 💻</h2>
 
 <p align="left">
   &emsp;
