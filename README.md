@@ -134,7 +134,7 @@
 
 <br/>
 
-<h2>🖥️ Frontend Development 🖥️</h2>
+<h2 align="center">🖥️ Frontend Development 🖥️</h2>
 
 <p align="left">
   <!-- Python-based Frontend Frameworks -->
@@ -196,7 +196,7 @@
 
 <br/>
 
-<h2>⚙️ Backend Development ⚙️</h2>
+<h2 align="center">⚙️ Backend Development ⚙️</h2>
 
 <p align="left">
   <!-- Python-based Backend Frameworks -->
@@ -230,7 +230,7 @@
 
 <br/>
 
-<h2>🖧 Databases 🖧</h2>
+<h2 align="center">🖧 Databases 🖧</h2>
 
 <p align="left">
   &emsp;
@@ -257,7 +257,7 @@
 
 <br/>
 
-<h2>💻 Software 💻</h2>
+<h2 align="center">💻 Software 💻</h2>
 
 <p align="left">
   <!-- Modern Development Tools -->
@@ -307,7 +307,7 @@
 
 <br/>
 
-<h2>🛠️ Tools 🛠️</h2>
+<h2 align="center">🛠️ Tools 🛠️</h2>
 <p>
   &emsp;
   <a href="https://github.com/" target="_blank">
@@ -369,7 +369,7 @@
 <br>
 
 
-<h2>🏆 Github Profile Trophies 🏆</h2>
+<h2 align="center">🏆 Github Profile Trophies 🏆</h2>
 <br>
 <p align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=asifminar&theme=juicyfresh&no-bg=true&row=2&column=4&margin-w=15&margin-h=20" />
