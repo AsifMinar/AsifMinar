@@ -89,47 +89,25 @@
 
 <p align="center">
   &emsp;
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white"/>
-  </a>
+  [![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)](https://www.cprogramming.com/)
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white"/>
-  </a>
+  [![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/)
   &emsp;
-  <a href="https://www.python.org/" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
-  </a>
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)](https://www.python.org/)
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black"/>
-  </a>
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   &emsp;
-  <a href="https://www.java.com/" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white"/>
-  </a>
+  [![Go](https://img.shields.io/badge/Go-000000?style=plastic&logo=go&logoColor=white)](https://go.dev/)
   &emsp;
-  <!-- Others -->
-  <a href="https://www.php.net/" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white"/>
-  </a>
+  [![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white)](https://www.java.com/)
   &emsp;
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white"/>
-  </a>
+  [![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)](https://www.php.net/)
   &emsp;
-  <a href="https://www.rust-lang.org/" target="_blank">
-    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white"/>
-  </a>
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   &emsp;
-  <a href="https://go.dev/" target="_blank">
-    <img alt="Go" src="https://img.shields.io/badge/Go-000000?style=plastic&logo=go&logoColor=white"/>
-  </a>
+  [![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white)](https://www.rust-lang.org/)
   &emsp;
-  <!-- Assembly at the end -->
-  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
-    <img alt="Assembly" src="https://img.shields.io/badge/Assembly-5A5A5A?style=plastic&logo=asm&logoColor=white"/>
-  </a>
+  [![Assembly](https://img.shields.io/badge/Assembly-5A5A5A?style=plastic&logo=asm&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 </p>
 
 <br/>
