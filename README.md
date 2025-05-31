@@ -378,7 +378,7 @@
 <br>
 
 
-<h2>🔗 Let's Connect 🔗</h2>
+<h2 align="center">🔗 Let's Connect 🔗</h2>
 <p align="center">
   	<a href="https://asifminar.com/" target="blank" title="Website"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:mostafizur37rahman@gmail.com" target="blank" title="Gmail"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
