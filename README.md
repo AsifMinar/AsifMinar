@@ -110,6 +110,10 @@
     <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white"/>
   </a>
   &emsp;
+  <a href="https://go.dev/" target="_blank">
+    <img alt="Go" src="https://img.shields.io/badge/Go-000000?style=plastic&logo=go&logoColor=white"/>
+  </a>
+  &emsp;
   <!-- Assembly at the end -->
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
     <img alt="Assembly" src="https://img.shields.io/badge/Assembly-5A5A5A?style=plastic&logo=asm&logoColor=white"/>
