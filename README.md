@@ -87,7 +87,7 @@
 
 <h2 align="center">💻 Programming languages 💻</h2>
 
-<p align="left">
+<p align="center">
   &emsp;
   <a href="https://www.cprogramming.com/" target="_blank">
     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white"/>
