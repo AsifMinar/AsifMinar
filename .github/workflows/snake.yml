@@ -15,8 +15,8 @@ jobs:
         with:
           github_user_name: asifminar
           outputs: |
-            dist/github-snake.svg?palette=github-light&color_snake=E31937
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=E31937
+            dist/github-snake.svg?palette=github-light&color_snake=%23E31937
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%23E31937
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
