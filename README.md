@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1500&color=2ECC71&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+the+future+with+code;AI+%7C+ML+%7C+Deep+Learning+%7C+GenAI;Competitive+Programmer+%7C+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1500&color=2ECC71&center=true&vCenter=true&repeat=true&width=700&height=45&lines=AI+%7C+ML+%7C+Deep+Learning+%7C+GenAI;Competitive+Programmer+%7C+Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
