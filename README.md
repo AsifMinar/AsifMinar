@@ -93,14 +93,6 @@ ai_platforms:
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=asifminar&layout=pie&theme=github_dark&hide_border=true&border_radius=15&title_color=2ECC71&text_color=ffffff&bg_color=0d1117&langs_count=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=asifminar&layout=pie&theme=default&hide_border=true&border_radius=15&title_color=27AE60&langs_count=10">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifminar&layout=pie&theme=github_dark&hide_border=true&border_radius=15&title_color=2ECC71&text_color=ffffff&bg_color=0d1117&langs_count=10" alt="Most Used Languages" width="45%"/>
-  </picture>
-</p>
-
 <br/>
 
 <div align="center">
