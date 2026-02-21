@@ -252,13 +252,13 @@ fun_fact: >
 
 </div>
 
-<p align="center">
+<div align="center" style="overflow:hidden;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asifminar/asifminar/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asifminar/asifminar/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/asifminar/asifminar/output/github-snake-dark.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/asifminar/asifminar/output/github-snake-dark.svg" style="max-width:100%;margin-bottom:-40px;" />
   </picture>
-</p>
+</div>
 
 <br/>
 
