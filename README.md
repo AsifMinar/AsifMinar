@@ -127,7 +127,8 @@ ai_platforms:
 <a href="https://jupyter.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://colab.research.google.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=colab&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.anaconda.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://wandb.ai/"><img src="https://go-skill-icons.vercel.app/api/icons?i=wandb&theme=dark" height="55"/></a>
+<a href="https://wandb.ai/"><img src="https://go-skill-icons.vercel.app/api/icons?i=wandb&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://langchain.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark" height="55"/></a>
 <br/><br/>
 </td>
 </tr>
@@ -187,8 +188,8 @@ ai_platforms:
 <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.jetbrains.com/pycharm/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pycharm&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.jetbrains.com/idea/"><img src="https://go-skill-icons.vercel.app/api/icons?i=idea&theme=dark" height="55"/></a>
+<a href="https://kubernetes.io/"><img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.terraform.io/"><img src="https://go-skill-icons.vercel.app/api/icons?i=terraform&theme=dark" height="55"/></a>
 <br/><br/>
 </td>
 </tr>
