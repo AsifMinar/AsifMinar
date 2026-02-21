@@ -29,11 +29,7 @@
 
 <br/>
 
-<div align="center">
-
-## Who Am I
-
-</div>
+## <img src="https://github.com/asifminar/asifminar/blob/main/images/me.gif?raw=true" width="38px"/> Who Am I
 
 <img align="right" src="https://github.com/asifminar/asifminar/blob/main/images/computer.gif?raw=true" width="280px"/>
 
@@ -68,9 +64,6 @@ ai_platforms:
   - Hugging Face
   - Papers With Code
 
-fun_fact: >
-  I debug with console.log
-  and I'm not ashamed
 ```
 
 > **portfolio:** [![asifminar](https://img.shields.io/badge/asifminar-2ECC71?style=flat-square&logo=safari&logoColor=white)](https://asifminar.github.io/theasifminar/)
@@ -94,20 +87,6 @@ fun_fact: >
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=asifminar&show_icons=true&theme=github_dark&hide_border=true&border_radius=15&icon_color=2ECC71&title_color=2ECC71&text_color=cccccc&bg_color=0d1117&rank_icon=github">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=asifminar&show_icons=true&theme=default&hide_border=true&border_radius=15&icon_color=27AE60&title_color=27AE60&rank_icon=github">
-    <img src="https://github-readme-stats.vercel.app/api?username=asifminar&show_icons=true&theme=github_dark&hide_border=true&border_radius=15&icon_color=2ECC71&title_color=2ECC71&text_color=cccccc&bg_color=0d1117&rank_icon=github" alt="Stats" width="49%"/>
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=asifminar&layout=compact&theme=github_dark&hide_border=true&border_radius=15&title_color=2ECC71&text_color=cccccc&bg_color=0d1117&langs_count=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=asifminar&layout=compact&theme=default&hide_border=true&border_radius=15&title_color=27AE60&langs_count=10">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asifminar&layout=compact&theme=github_dark&hide_border=true&border_radius=15&title_color=2ECC71&text_color=cccccc&bg_color=0d1117&langs_count=10" alt="Languages" width="41%"/>
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=asifminar&theme=github-dark&hide_border=true&area=true&color=2ECC71&line=2ECC71&point=ffffff&area_color=2ECC7130&radius=15&custom_title=Asif%20Minar's%20Contribution%20Graph">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=asifminar&theme=github-light&hide_border=true&area=true&color=27AE60&line=27AE60&point=333333&area_color=27AE6030&radius=15&custom_title=Asif%20Minar's%20Contribution%20Graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifminar&theme=github-dark&hide_border=true&area=true&color=2ECC71&line=2ECC71&point=ffffff&area_color=2ECC7130&radius=15&custom_title=Asif%20Minar's%20Contribution%20Graph" alt="Activity Graph" width="98%"/>
@@ -118,17 +97,13 @@ fun_fact: >
 
 <div align="center">
 
-## Tech Arsenal
+## 🛠️ Tech Arsenal
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="100%">
+<div align="center">
 
-**Languages**
-
-<br/>
+### Languages
 
 <a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c&theme=dark" height="48"/></a>
 <a href="https://www.w3schools.com/cpp/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="48"/></a>
@@ -142,14 +117,7 @@ fun_fact: >
 
 <br/><br/>
 
-</td>
-</tr>
-<tr>
-<td align="center" width="100%">
-
-**AI / ML / Data Science**
-
-<br/>
+### AI / ML / Data Science
 
 <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="48"/></a>
 <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="48"/></a>
@@ -162,14 +130,7 @@ fun_fact: >
 
 <br/><br/>
 
-</td>
-</tr>
-<tr>
-<td align="center" width="100%">
-
-**Frontend**
-
-<br/>
+### Frontend
 
 <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="48"/></a>
 <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue&theme=dark" height="48"/></a>
@@ -178,21 +139,13 @@ fun_fact: >
 <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="48"/></a>
 <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="48"/></a>
 <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="48"/></a>
-<br/><br/>
 <a href="https://streamlit.io/"><img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit&theme=dark" height="48"/></a>
 <a href="https://www.gradio.app/"><img src="https://go-skill-icons.vercel.app/api/icons?i=gradio&theme=dark" height="48"/></a>
 <a href="https://dash.plotly.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=plotly&theme=dark" height="48"/></a>
 
 <br/><br/>
 
-</td>
-</tr>
-<tr>
-<td align="center" width="100%">
-
-**Backend**
-
-<br/>
+### Backend
 
 <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django&theme=dark" height="48"/></a>
 <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask&theme=dark" height="48"/></a>
@@ -203,14 +156,7 @@ fun_fact: >
 
 <br/><br/>
 
-</td>
-</tr>
-<tr>
-<td align="center" width="100%">
-
-**Databases**
-
-<br/>
+### Databases
 
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="48"/></a>
 <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="48"/></a>
@@ -220,14 +166,7 @@ fun_fact: >
 
 <br/><br/>
 
-</td>
-</tr>
-<tr>
-<td align="center" width="100%">
-
-**DevTools & Platforms**
-
-<br/>
+### DevTools & Platforms
 
 <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48"/></a>
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="48"/></a>
@@ -238,11 +177,7 @@ fun_fact: >
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://go-skill-icons.vercel.app/api/icons?i=pycharm&theme=dark" height="48"/></a>
 <a href="https://www.jetbrains.com/idea/"><img src="https://go-skill-icons.vercel.app/api/icons?i=idea&theme=dark" height="48"/></a>
 
-<br/><br/>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -289,7 +224,7 @@ fun_fact: >
 <br/>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20works%20on%20my%20machine.%20Then%20we%E2%80%99ll%20ship%20your%20machine.&author=Every%20Developer%20Ever" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If%20debugging%20is%20the%20process%20of%20removing%20software%20bugs%2C%20then%20programming%20must%20be%20the%20process%20of%20putting%20them%20in.&author=Edsger%20Dijkstra" alt="Quote"/>
 </p>
 
 <br/>
