@@ -30,7 +30,7 @@
 
 ## <img src="https://github.com/asifminar/asifminar/blob/main/images/me.gif?raw=true" width="38px"/> Who Am I
 
-
+<div align="center">
 
 ```yaml
 name: Asif Minar
@@ -64,6 +64,7 @@ ai_platforms:
   - Papers With Code
 
 ```
+</div>
 
 > **portfolio:** [![asifminar](https://img.shields.io/badge/asifminar-2ECC71?style=flat-square&logo=safari&logoColor=white)](https://asifminar.github.io/theasifminar/)
 
