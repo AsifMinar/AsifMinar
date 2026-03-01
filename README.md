@@ -125,7 +125,7 @@ ai_platforms:
 <a href="https://scikit-learn.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://huggingface.co/"><img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://jupyter.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://colab.research.google.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=colab&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://colab.research.google.com/"><img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="55"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.anaconda.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://wandb.ai/"><img src="https://go-skill-icons.vercel.app/api/icons?i=wandb&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://langchain.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark" height="55"/></a>
