@@ -96,7 +96,7 @@ ai_platforms:
 
 <div align="center">
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <table width="100%">
 <tr>
