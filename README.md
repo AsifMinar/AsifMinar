@@ -30,7 +30,7 @@
 
 ## <img src="https://github.com/asifminar/asifminar/blob/main/images/me.gif?raw=true" width="38px"/> Who Am I
 
-<img align="right" src="https://github.com/asifminar/asifminar/blob/main/images/computer.gif?raw=true" width="280px"/>
+
 
 ```yaml
 name: Asif Minar
