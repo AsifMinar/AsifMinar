@@ -33,36 +33,160 @@
 
 
 ```yaml
-name: Asif Minar
-location: "Bangladesh 🇧🇩"
-education: Computer Science & Engineering
+# ╔════════════════════════════════════════════════════════════════════════════╗
+# ║  █████╗ ███████╗██╗███████╗   ███╗   ███╗██╗███╗  ██╗ █████╗ ██████╗       ║
+# ║ ██╔══██╗██╔════╝██║██╔════╝   ████╗ ████║██║████╗ ██║██╔══██╗██╔══██╗      ║
+# ║ ███████║███████╗██║█████╗     ██╔████╔██║██║██╔██╗██║███████║██████╔╝      ║
+# ║ ██╔══██║╚════██║██║██╔══╝     ██║╚██╔╝██║██║██║╚████║██╔══██║██╔══██╗      ║
+# ║ ██║  ██║███████║██║██║        ██║ ╚═╝ ██║██║██║ ╚███║██║  ██║██║  ██║      ║
+# ║ ╚═╝  ╚═╝╚══════╝╚═╝╚═╝        ╚═╝     ╚═╝╚═╝╚═╝  ╚══╝╚═╝  ╚═╝╚═╝  ╚═╝      ║
+# ║                                                                            ║
+# ║              [ AI Stack Engineer  ·  Bangladesh BD ]                       ║
+# ║                                                                            ║
+# ╚════════════════════════════════════════════════════════════════════════════╝
 
-roles:
-  - AI Stack Engineer
-  - Problem Solver
-  - Competitive Programmer
 
-currently_learning:
-  - LLMs & Prompt Engineering
-  - Diffusion Models
-  - System Design
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#  IDENTITY                                              [0x00]
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-ask_me_about:
-  - AI / ML
-  - Web Development
-  - Data Structures & Algorithms
-  - Competitive Programming
+whoami:
+  name:    "Asif Minar"
+  handle:  "@asifminar"
+  age:     27
+  loc:     "Dhaka, Bangladesh  ·  UTC+6"
+  edu:     "B.Sc. Computer Science & Engineering"
+  site:    "https://asifminar.github.io/theasifminar/"
+  mailto:  "mostafizur37rahman@gmail.com"
 
-competitive_platforms:
-  - LeetCode
-  - Codeforces
-  - HackerRank
+  roles:
+    primary:   "AI Stack Engineer"
+    secondary: "Full-Stack Developer"
+    hobby:     "Competitive Programmer"
 
-ai_platforms:
-  - Kaggle
-  - Hugging Face
-  - Papers With Code
+  status:
+    building:      "Agentic AI systems and RAG pipelines"
+    signal:        "Open to interesting problems"
 
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#  BRAIN.exe  --  What's loaded in memory                [0x01]
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+skills:
+
+  # ┌─ LANGUAGES ───────────────────────────────────────────────┐
+  lang:
+    tier_S: [ Python, C++ ]              # ████████████ 100%
+    tier_A: [ TypeScript, JavaScript ]   # █████████░░░  85%
+    tier_B: [ Go, Rust, Java ]           # ███████░░░░░  70%
+    tier_C: [ PHP, C ]                   # █████░░░░░░░  50%
+  # └───────────────────────────────────────────────────────────┘
+
+  # ┌─ AI / ML ─────────────────────────────────────────────────┐
+  ai:
+    deep_learning:
+      - TensorFlow       # production models
+      - PyTorch          # research & custom architectures
+
+    genai_llm:           # the stack that matters in 2026
+      - LangChain        # orchestration
+      - LangGraph        # agentic workflows
+      - Hugging Face     # model hub & inference
+      - OpenAI API       # GPT family
+      - Anthropic API    # Claude family
+
+    ml_classical:
+      - Scikit-learn
+
+    data_tools:
+      - Pandas · NumPy · Matplotlib · Seaborn
+
+    experiment_tracking:
+      - "Weights & Biases (wandb)"
+
+    env:
+      - Jupyter · Google Colab · Anaconda
+  # └───────────────────────────────────────────────────────────┘
+
+  # ┌─ WEB STACK ───────────────────────────────────────────────┐
+  web:
+    frontend:
+      ui_fw:    [ React, Next.js, Vue, Angular, Svelte ]
+      style:    [ Tailwind CSS, Bootstrap ]
+      ai_ui:    [ Streamlit, Gradio, Plotly Dash ]
+
+    backend:
+      fw:       [ FastAPI, Django, Flask, Node.js, Laravel ]
+      patterns: [ REST, GraphQL, WebSocket, gRPC ]
+
+    databases:
+      sql:      [ PostgreSQL, MySQL ]
+      nosql:    [ MongoDB, Redis ]
+      graph:    [ Neo4j ]
+      vector:   [ ChromaDB, Pinecone ]    # RAG-ready
+  # └───────────────────────────────────────────────────────────┘
+
+  # ┌─ DEVOPS / INFRA ──────────────────────────────────────────┐
+  infra:
+    containers:  [ Docker, Kubernetes ]
+    iac:         [ Terraform ]
+    ci_cd:       [ GitHub Actions ]
+    cloud:       [ AWS, GCP ]
+    os:          [ Linux, MacOS, Windows ]
+    tools:       [ Git, GitHub, Postman, VSCode ]
+  # └───────────────────────────────────────────────────────────┘
+
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#  GRIND.log  --  Competitive Programming                [0x02]
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+competitive:
+  platforms:
+    - { name: LeetCode,   focus: "DS & Algorithms"         }
+    - { name: Codeforces, focus: "Competitive Programming" }
+    - { name: HackerRank, focus: "Problem Solving"         }
+
+  strong_at:
+    - Dynamic Programming
+    - Graph Algorithms
+    - Binary Search & Greedy
+    - Data Structures
+
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#  LEARNING.queue  --  What's next                       [0x03]
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+learning:
+  # status: done | in-progress | queued
+
+  - { topic: "LLMs & Prompt Engineering",  status: in-progress, priority: HIGH }
+  - { topic: "Agentic AI with LangGraph",  status: in-progress, priority: HIGH }
+  - { topic: "Diffusion Models",           status: in-progress, priority: MED  }
+  - { topic: "System Design at Scale",     status: in-progress, priority: MED  }
+  - { topic: "Distributed Systems",        status: queued,      priority: LOW  }
+  - { topic: "Reinforcement Learning",     status: queued,      priority: LOW  }
+
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#  CONNECT  --  Find me on the internet                  [0x04]
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+links:
+  portfolio:    "https://asifminar.github.io/theasifminar/"
+  email:        "mostafizur37rahman@gmail.com"
+  linkedin:     "https://linkedin.com/in/mostafizur-37-rahman/"
+  github:       "https://github.com/AsifMinar"
+  huggingface:  "https://huggingface.co/asifminar"
+  kaggle:       "https://kaggle.com/asifminar"
+
+
+# ╔════════════════════════════════════════════════════════════════════════════╗
+# ║  "If debugging is removing bugs, programming is putting them in."          ║
+# ║                                              -- Edsger W. Dijkstra         ║
+# ╚════════════════════════════════════════════════════════════════════════════╝
 ```
 
 > **portfolio:** [![asifminar](https://img.shields.io/badge/asifminar-2ECC71?style=flat-square&logo=safari&logoColor=white)](https://asifminar.github.io/theasifminar/)
