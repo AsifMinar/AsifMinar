@@ -54,7 +54,7 @@ whoami:
   age:     27
   loc:     "Dhaka, Bangladesh · UTC+6"
   edu:     "B.Sc. Computer Science & Engineering"
-  site:    "https://asifminar.github.io/theasifminar/"
+  site:    "https://asifminar.com"
   mailto:  "mostafizur37rahman@gmail.com"
 
   roles:
@@ -188,7 +188,7 @@ learning:
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 links:
-  portfolio:   "https://asifminar.github.io/theasifminar/"
+  portfolio:   "https://asifminar.com"
   email:       "mostafizur37rahman@gmail.com"
   linkedin:    "https://linkedin.com/in/mostafizur-37-rahman/"
   github:      "https://github.com/AsifMinar"
