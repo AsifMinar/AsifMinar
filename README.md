@@ -189,7 +189,7 @@ learning:
 
 links:
   portfolio:   "https://asifminar.com"
-  email:       "mostafizur37rahman@gmail.com"
+  email:       "asifminar@proton.me"
   linkedin:    "https://linkedin.com/in/mostafizur-37-rahman/"
   github:      "https://github.com/AsifMinar"
   huggingface: "https://huggingface.co/asifminar"
