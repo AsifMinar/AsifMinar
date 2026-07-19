@@ -159,15 +159,15 @@ competitive:
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 learning:
-  - topic:    "LLMs & Prompt Engineering"
+  - topic:    "Multi-Agent Orchestration (LangGraph)"
     status:   in-progress
     priority: HIGH
 
-  - topic:    "Agentic AI with LangGraph"
+  - topic:    "Context Engineering & MCP"
     status:   in-progress
     priority: HIGH
 
-  - topic:    "Diffusion Models"
+  - topic:    "LLM Evals & Observability"
     status:   in-progress
     priority: MED
 
@@ -175,11 +175,11 @@ learning:
     status:   in-progress
     priority: MED
 
-  - topic:    "Distributed Systems"
+  - topic:    "Multimodal & Diffusion Models"
     status:   queued
     priority: LOW
 
-  - topic:    "Reinforcement Learning"
+  - topic:    "RL Fine-Tuning (RLHF / RLVR)"
     status:   queued
     priority: LOW
 
