@@ -216,7 +216,7 @@ links:
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=asifminar&theme=github-dark-blue&hide_border=true&border_radius=15&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71&sideLabels=2ECC71&dates=888888">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=asifminar&theme=default&hide_border=true&border_radius=15&ring=27AE60&fire=27AE60&currStreakLabel=27AE60">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifminar&theme=github-dark-blue&hide_border=true&border_radius=15&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71&sideLabels=2ECC71&dates=888888" alt="Streak" width="60%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifminar&theme=github-dark-blue&hide_border=true&border_radius=15&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71&sideLabels=2ECC71&dates=888888" alt="Streak"/>
   </picture>
 </p>
 
@@ -234,98 +234,98 @@ links:
 
 ## Tech Arsenal
 
-<table width="100%">
+<table>
 <tr>
-<td align="center" width="140"><br/><br/><b>Languages</b><br/><br/><br/></td>
+<td align="center"><b>Languages</b></td>
 <td align="center">
 <br/>
-<a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3schools.com/cpp/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go&theme=dark" height="55"/></a>
+<a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c&theme=dark" height="42"/></a>&nbsp;
+<a href="https://www.w3schools.com/cpp/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="42"/></a>&nbsp;
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="42"/></a>&nbsp;
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="42"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="42"/></a>&nbsp;
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="42"/></a>&nbsp;
+<a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php&theme=dark" height="42"/></a>&nbsp;
+<a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust&theme=dark" height="42"/></a>&nbsp;
+<a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go&theme=dark" height="42"/></a>
 <br/><br/>
 </td>
 </tr>
 
 <tr>
-<td align="center" width="140"><br/><br/><b>AI / ML</b><br/><br/><br/></td>
+<td align="center"><b>AI / ML</b></td>
 <td align="center">
 <br/>
-<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://scikit-learn.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://huggingface.co/"><img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://jupyter.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://colab.research.google.com/"><img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.anaconda.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://wandb.ai/"><img src="https://go-skill-icons.vercel.app/api/icons?i=wandb&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://langchain.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark" height="55"/></a>
+<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="42"/></a>&nbsp;
+<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="42"/></a>&nbsp;
+<a href="https://scikit-learn.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn&theme=dark" height="42"/></a>&nbsp;
+<a href="https://huggingface.co/"><img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&theme=dark" height="42"/></a>&nbsp;
+<a href="https://jupyter.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark" height="42"/></a>&nbsp;
+<a href="https://colab.research.google.com/"><img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="42"/></a>&nbsp;
+<a href="https://www.anaconda.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda&theme=dark" height="42"/></a>&nbsp;
+<a href="https://wandb.ai/"><img src="https://go-skill-icons.vercel.app/api/icons?i=wandb&theme=dark" height="42"/></a>&nbsp;
+<a href="https://langchain.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark" height="42"/></a>
 <br/><br/>
 </td>
 </tr>
 
 <tr>
-<td align="center" width="140"><br/><br/><b>Frontend</b><br/><br/><br/></td>
+<td align="center"><b>Frontend</b></td>
 <td align="center">
 <br/>
-<a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://angular.io/"><img src="https://skillicons.dev/icons?i=angular&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://svelte.dev/"><img src="https://skillicons.dev/icons?i=svelte&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://streamlit.io/"><img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.gradio.app/"><img src="https://go-skill-icons.vercel.app/api/icons?i=gradio&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://dash.plotly.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=plotly&theme=dark" height="55"/></a>
+<a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="42"/></a>&nbsp;
+<a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue&theme=dark" height="42"/></a>&nbsp;
+<a href="https://angular.io/"><img src="https://skillicons.dev/icons?i=angular&theme=dark" height="42"/></a>&nbsp;
+<a href="https://svelte.dev/"><img src="https://skillicons.dev/icons?i=svelte&theme=dark" height="42"/></a>&nbsp;
+<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="42"/></a>&nbsp;
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="42"/></a>&nbsp;
+<a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="42"/></a>&nbsp;
+<a href="https://streamlit.io/"><img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit&theme=dark" height="42"/></a>&nbsp;
+<a href="https://www.gradio.app/"><img src="https://go-skill-icons.vercel.app/api/icons?i=gradio&theme=dark" height="42"/></a>&nbsp;
+<a href="https://dash.plotly.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=plotly&theme=dark" height="42"/></a>
 <br/><br/>
 </td>
 </tr>
 
 <tr>
-<td align="center" width="140"><br/><br/><b>Backend</b><br/><br/><br/></td>
+<td align="center"><b>Backend</b></td>
 <td align="center">
 <br/>
-<a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="55"/></a>
+<a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django&theme=dark" height="42"/></a>&nbsp;
+<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask&theme=dark" height="42"/></a>&nbsp;
+<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="42"/></a>&nbsp;
+<a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" height="42"/></a>&nbsp;
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="42"/></a>&nbsp;
+<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="42"/></a>
 <br/><br/>
 </td>
 </tr>
 
 <tr>
-<td align="center" width="140"><br/><br/><b>Databases</b><br/><br/><br/></td>
+<td align="center"><b>Databases</b></td>
 <td align="center">
 <br/>
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://neo4j.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=neo4j&theme=dark" height="55"/></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="42"/></a>&nbsp;
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="42"/></a>&nbsp;
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="42"/></a>&nbsp;
+<a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis&theme=dark" height="42"/></a>&nbsp;
+<a href="https://neo4j.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=neo4j&theme=dark" height="42"/></a>
 <br/><br/>
 </td>
 </tr>
 
 <tr>
-<td align="center" width="140"><br/><br/><b>DevTools</b><br/><br/><br/></td>
+<td align="center"><b>DevTools</b></td>
 <td align="center">
 <br/>
-<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://kubernetes.io/"><img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes&theme=dark" height="55"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.terraform.io/"><img src="https://go-skill-icons.vercel.app/api/icons?i=terraform&theme=dark" height="55"/></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="42"/></a>&nbsp;
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="42"/></a>&nbsp;
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="42"/></a>&nbsp;
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="42"/></a>&nbsp;
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="42"/></a>&nbsp;
+<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman&theme=dark" height="42"/></a>&nbsp;
+<a href="https://kubernetes.io/"><img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes&theme=dark" height="42"/></a>&nbsp;
+<a href="https://www.terraform.io/"><img src="https://go-skill-icons.vercel.app/api/icons?i=terraform&theme=dark" height="42"/></a>
 <br/><br/>
 </td>
 </tr>
@@ -341,11 +341,11 @@ links:
 
 </div>
 
-<div align="center" style="overflow:hidden;">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asifminar/asifminar/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asifminar/asifminar/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/asifminar/asifminar/output/github-snake-dark.svg" style="max-width:100%;margin-bottom:-40px;" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/asifminar/asifminar/output/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
@@ -363,7 +363,7 @@ links:
   </a>
   &nbsp;
   <a href="mailto:asifminar@proton.me">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/mostafizur-37-rahman/" target="_blank">
